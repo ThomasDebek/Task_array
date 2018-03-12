@@ -1,0 +1,10 @@
+Task:
+Sprawdz czy w posortowanej tablicy liczb całkowitych, są dwie liczby, które sumują się do k.
+
+Przykład:
+Dla danej tablicy [1,3,5,6,10] i k = 7, poprawny wynik to true (bo A[0] + A[3]==7)
+Dla danej tablicy [1,3,5,6,10] i k = 7, poprawny wynik to false (bo nie istnieje i, j takie, ze A[i] + A[j] == 2)
+
+Złożoność:
+Oczekiwana złożoność czasowa: O(n), pamięciowa 0(1).
+
